@@ -1,3 +1,3 @@
-# PytorchFuelEfficiencyPredictor
+# Pytorch Fuel Efficiency Predictor
 
-I created a fuel efficiency predictor with PyTorch using fuel efficiency data from 2014-2024 from the government of Canada. Both a simple linear regression and a more complex deep neural network model are used.
+A fuel efficiency predictor with PyTorch using a dataset of the government of Canada fuel efficiency data from 2014-2024. Both a simple linear regression and a more complex deep neural network model with ReLU activations were used.
